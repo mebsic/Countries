@@ -2,7 +2,7 @@
 
 This app was built using React Native, Expo Go, and Google Firebase. The list of countries is fetched from the Rest Countries API
 
-## Features
+## Screenshots
 
 ### Login
 Users can log in with Firebase authentication using their email and password
